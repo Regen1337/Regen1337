@@ -33,7 +33,7 @@
    - **Supports:** Lua 5.1, gLua
    - **Features:** Source Level Obfuscator components
 
-2. **Custom Lua Bytecode Interpreter**
+2. **Custom Lua Bytecode De/Re-Serializer & Interpreter**
    - **Tech:** Reverse Engineering, C#
    - **Supports:** Lua 5.1 source → bytecode → custom format
    - **Features:** Interpreter mimics Lua C VM behavior
