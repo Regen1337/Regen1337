@@ -29,17 +29,18 @@
 ## 🚀 Main Projects in the Works
 
 1. **Lua AST Generator & Manipulator**
-   - **Tech**: C#, ANTLR Grammar
-   - **Supports**: Lua 5.1, gLua
-   - **Features**: Source Level Obfuscator components
+   - **Tech:** C#, ANTLR Grammar
+   - **Supports:** Lua 5.1, gLua
+   - **Features:** Source Level Obfuscator components
 
 2. **Custom Lua Bytecode Interpreter**
-   - **Tech**: Lua 5.1 source → bytecode → custom format
-   - **Features**: Interpreter mimics Lua C VM behavior
+   - **Tech:** Reverse Engineering, C#
+   - **Supports:** Lua 5.1 source → bytecode → custom format
+   - **Features:** Interpreter mimics Lua C VM behavior
 
 3. **Garry's Mod Anti-Physics Crashing Module**
-   - **Tech**: Reverse Engineering, C++, Lua
-   - **Features**: Mitigates server crashes from physics related crashes
+   - **Tech:** Reverse Engineering, C++, Lua
+   - **Features:** Mitigates server crashes from physics related crashes
 
 ## 🤝 Let's Connect
 
