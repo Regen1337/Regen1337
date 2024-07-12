@@ -1,8 +1,9 @@
 # Rain 🌧️
 > Self-taught backend developer, always learning, always coding.
-> "The best way to predict the future is to invent it." - Alan Kay
+
 
 ## 🎓 Learning Journey
+> "The best way to predict the future is to invent it." - Alan Kay
 
 - 🐧 Daily Linux user for ~1.5 years
 - 📚 Self-taught for ~5 years
@@ -46,10 +47,6 @@
 - 💼 Open to collaboration
 - 🔍 Seeking opportunities to apply my skills professionally
 
-## 📊 GitHub Stats
-
-![Rains's GitHub stats](https://github-readme-stats.vercel.app/api?username=regen1337&show_icons=true&theme=radical)
-
-## 🌐 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regen1337&layout=compact&theme=radical)](https://github.com/regen1337/github-readme-stats)
+## 📊
+![](https://github-readme-stats.vercel.app/api?username=regen1337&hide_rank=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=regen1337&layout=donut-vertical&theme=radical)](https://github.com/regen1337/github-readme-stats)
