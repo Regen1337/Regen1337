@@ -1,7 +1,14 @@
 # Rain 🌧️
 > Self-taught backend developer, always learning, always coding.
+> "The best way to predict the future is to invent it." - Alan Kay
 
-## 👨‍💻 Code & Skills
+## 🎓 Learning Journey
+
+- 🐧 Daily Linux user for ~1.5 years
+- 📚 Self-taught for ~5 years
+- 🖥️ Planning to pursue CS degree
+
+## 👨‍💻 Skills
 
 - **Main Languages:** Lua, C# Microsoft Certified
 - **Lua Languages:** Lua 5.1-5.3, LuaJIT, gLua, Luau, cfxLua
@@ -10,20 +17,14 @@
 - **OS:** Ubuntu Linux
 - **Experience:** ~5 years of self-taught coding
 
-## 🎓 Learning Journey
-
-- 🐧 Daily Linux user for ~1.5 years
-- 📚 Self-taught for ~5 years
-- 🖥️ Planning to pursue CS degree
-
 ## 💡 Interests & Hobbies
 
-- Software Development: Crafting tools
-- Reverse Engineering: Analyzing binaries
-- Game Hacking: Finding exploits
-- Language Internals: Lexical analysis, ASTs, bytecode
-- Mentoring: Helping friends in Garry's Mod Lua community primarily
-- Modding: Garry's Mod, Minecraft, FiveM, RuneScape, ...
+- **Software Development:** Crafting tools
+- **Reverse Engineering:** Analyzing binaries
+- **Game Hacking:** Finding exploits
+- **Language Internals:** Lexical analysis, ASTs, bytecode
+- **Mentoring:** Helping friends in Garry's Mod Lua community primarily
+- **Modding:** Garry's Mod, Minecraft, FiveM, RuneScape, ...
 
 ## 🚀 Main Projects in the Works
 
@@ -52,7 +53,3 @@
 ## 🌐 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regen1337&layout=compact&theme=radical)](https://github.com/regen1337/github-readme-stats)
-
-## 💭 Quote of the Day
-
-> "The best way to predict the future is to invent it." - Alan Kay
