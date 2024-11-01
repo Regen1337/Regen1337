@@ -12,7 +12,7 @@
 - **Main Languages:** Lua, C# Microsoft Certified
 - **Lua Languages:** Lua 5.1-5.3, LuaJIT, gLua, Luau, cfxLua
 - **Familiar With:** Java, Python, C/C++, MySQL, JSON, Shell
-- **Tools:** VS Code, Rider, IDEA, IDA Freeware, CMake, Make, PINCE, ...
+- **Tools:** VS Code, Rider, IDEA, IDA Freeware, Ghidra, CMake, Make, PINCE, ...
 - **OS:** Ubuntu Linux, Windows 10 Duel Boot
 - **Experience:** ~5 years of self-taught coding
 
