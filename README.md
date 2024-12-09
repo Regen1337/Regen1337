@@ -31,4 +31,4 @@
 - 🔍 Seeking opportunities to apply my skills professionally
 
 ![Rain's Github Stats](https://github-readme-stats.vercel.app/api?username=regen1337&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regen1337&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regen1337&theme=github_dark&layout=compact)
