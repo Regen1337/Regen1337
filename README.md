@@ -15,7 +15,7 @@ in innovative ways, I plan to pursue a Computer Science degree to further enhanc
 ## 👨‍💻 Skills
 ### Programming Languages
 - **Main Languages:** Lua (5.1-5.3, LuaJIT, gLua, Luau, cfxLua), C# (Microsoft Certified)
-- **Familiar With:** Java, Python, C/C++, MySQL, JSON, Shell
+- **Familiar With:** C/C++, Shell, Java, Python, MySQL, JSON
 
 ### Tools and Technologies
 - **Development Environments:** VS Studio 22, VS Code, Rider, IDEA
